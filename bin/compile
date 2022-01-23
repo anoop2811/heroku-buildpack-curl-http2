@@ -15,7 +15,7 @@ indent() {
 
 ### Constants
 
-CURL_VERSION=7.58.0
+CURL_VERSION=7.81.0
 
 ### Configure directories
 
